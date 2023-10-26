@@ -166,4 +166,4 @@ We can change our user data to whatever we want, and it won't be overwritten wit
 
 ## Summary
 
-We now have a fully configured and working integration of Okta SSO with the Directus application. Users can seamlessly register and log in via the organization's SSO, functioning equivalently to standard email and password login method without any limitations.
+We now have a fully configured and working integration of Okta SSO with the Directus application. Users can seamlessly register and log in via the organization's SSO, functioning equivalently to the standard email and password login method without any limitations.
