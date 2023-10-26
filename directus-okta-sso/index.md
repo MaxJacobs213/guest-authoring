@@ -156,7 +156,7 @@ Clicking on it takes us to the Okta login screen.
 
 ![Okta login screen](okta-login-screen.png)
 
-Successful authentication with Okta should redirect you to the Directus admin panel. Here, go to User Directory and confirm taht we have a new user with a pre-filled email, first name, and last name.
+Successful authentication with Okta should redirect you to the Directus admin panel. Here, go to User Directory and confirm that we have a new user with a pre-filled email, first name, and last name.
 
 ![User authenticated via Okta with pre-filled fields](authenticated-user.png)
 
